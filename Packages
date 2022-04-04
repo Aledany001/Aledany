@@ -1,0 +1,15 @@
+Package: com.aledany.ig
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Aledany <Aledany444@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.aledany.ig.deb
+Size: 356996
+MD5sum: e7bdaf30f9a780a154b98c33fb97dd1a
+Description: Anti-Cheats For PUBGM
+Name: SHADOW ANTIBAN
+Author: Aledany <Aledany444@gmail.com>
+Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledany.ig
+
+
