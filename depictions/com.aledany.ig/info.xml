@@ -1,6 +1,6 @@
 <package>
 	<id>com.aledany.ig</id>
-	<name>Shadow AntiCheats</name>
+	<name>SHADOW ANTIBAN</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -13,8 +13,8 @@
 	<shortDescription>Shadow Cheats Anti-Cheats.</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
+		You can also See<br/>
+		a screenshots.
 		]]>
 		</description>
 	</descriptionlist>
@@ -29,15 +29,12 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>Our website</name>
 			<url>https://Aledany.com</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>fa fa-google</iconclass>
 		</link>
 	</links>
 </package>
