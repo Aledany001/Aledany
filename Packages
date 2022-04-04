@@ -1,5 +1,5 @@
 Package: com.aledany.ig
-Version: 1.0.5
+Version: 1.0.0
 Section: Tweaks
 Maintainer: Aledany <Aledany444@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate 
