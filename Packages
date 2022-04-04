@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.aledany.ig
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Aledany <Aledany444@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate 
+Architecture: iphoneos-arm
+Filename: ./debs/com.aledany.ig.deb
+Size: 806824
+MD5sum: c2abec64b53c05d2c0d45e8ce307d10f
+Description: Shadow Cheats Anti-Cheats.
+Name: Shadow AntiCheats
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledany.ig
