@@ -4,10 +4,10 @@ Section: Tweaks
 Maintainer: Aledany <Aledany444@gmail.com>
 Architecture: iphoneos-arm
 Filename: ./debs/com.aledany.ig.deb
-Size: 356996
-MD5sum: e7bdaf30f9a780a154b98c33fb97dd1a
-Description: Anti-Cheats For PUBGM
-Name: SHADOW ANTIBAN
+Size: 356302
+MD5sum: 344a31836f197e22172b65f1d9aac495
+Description: Best Anti-Cheats For PUBGM
+Name: ANTIBAN KR
 Author: Aledany <Aledany444@gmail.com>
 Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledany.ig
 
