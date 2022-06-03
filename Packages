@@ -1,56 +1,14 @@
-Package: com.aledany.ig
+Package: com.aledanys.ig
 Version: 1.0.0
 Section: Tweaks
 Maintainer: Aledany <Aledany444@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.aledany.ig.deb
-Size: 356302
-MD5sum: 344a31836f197e22172b65f1d9aac495
+Filename: ./debs/com.aledanys.ig.deb
+Size: 261054
+MD5sum: fd936679e01b9eaeb34a4f8130d7485e
 Description: Best Anti-Cheats For PUBGM
-Name: ANTIBAN KR
+Name: ASTON ANTIBAN
 Author: Aledany <Aledany444@gmail.com>
-Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledany.ig
-
-
-Package: com.aledany1.ig
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Aledany <Aledany444@gmail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.aledany1.ig.deb
-Size: 356306
-MD5sum: 93e9b6b08270cf05cbc273aa0a2e58f8
-Description: Best Anti-Cheats For PUBGM
-Name: ANTIBAN GL
-Author: Aledany <Aledany444@gmail.com>
-Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledany1.ig
-
-
-Package: com.aledanyy.ig
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Aledany <Aledany444@gmail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.aledanyy.ig.deb
-Size: 356306
-MD5sum: a4d241cd58e3114f0b4c8cc4d095c5d6
-Description: Best Radar For PUBGM
-Name: ESP KR
-Author: Aledany <Aledany444@gmail.com>
-Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledanyy.ig
-
-
-Package: com.aledanyy1.ig
-Version: 1.0.0
-Section: Tweaks
-Maintainer: Aledany <Aledany444@gmail.com>
-Architecture: iphoneos-arm
-Filename: ./debs/com.aledanyy1.ig.deb
-Size: 356306
-MD5sum: 7f31008a2375a838e76cf4ffb3e684e1
-Description: Best Radar For PUBGM
-Name: ESP GL
-Author: Aledany <Aledany444@gmail.com>
-Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledanyy1.ig
+Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledanys.ig
 
 
