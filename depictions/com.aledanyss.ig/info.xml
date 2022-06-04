@@ -1,0 +1,43 @@
+<package>
+	<id>com.aledanyss.ig</id>
+	<name>GULF ESP</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Best ESP For Pubgm</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		You Can See the deb befor you install it.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is ESP</description>
+			<image>cydia.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>&</description>
+			<image>shot1-thumb.jpg</image>
+		</screenshot>
+	  </screenshots>
+    <changelog>
+        <changes>
+            <version>1.0.0</version>
+            <change>Initial Release</change>
+        </changes>
+    </changelog>
+	<links>
+		<link>
+			<name>Our Website</name>
+			<url>https://www.aledany.com</url>
+			<iconclass>fa fa-google</iconclass>
+		</link>
+	</links>
+</package>
