@@ -21,16 +21,12 @@
 		<screenshot>
 			<description>This is Show When You install it</description>
 			<image>cydia.jpg</image>
-		</screenshot>		
+		</screenshot>
 		<screenshot>
 			<description>This is Show When Your Key is vaild</description>
 			<image>shot1-thumb.jpg</image>
-		</screenshot>		
+		</screenshot>
 	  </screenshots>
-            <description>This is Show When Your Key is unvaild</description>
-            <image>shot.jpg</image>
-        </screenshot>
-      </screenshots>
     <changelog>
         <changes>
             <version>1.0.0</version>
