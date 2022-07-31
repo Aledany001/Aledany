@@ -1,12 +1,12 @@
-Package: com.aledanys.ig
+Package: com.aledanyss.ig
 Version: 1.0.0
 Section: Tweaks
 Maintainer: Aledany <Aledany444@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/com.aledanys.ig.deb
-Size: 261054
-MD5sum: fd936679e01b9eaeb34a4f8130d7485e
-Description: Best Anti-Cheats For PUBGM
-Name: ASTON ANTIBAN
+Filename: ./debs/com.aledanyss.ig.deb
+Size: 2110276
+MD5sum: b3a3edc6d7ae17aab35cad0d8901d2c6
+Description: Best ESP For PUBGM
+Name: ASTON ESP
 Author: Aledany <Aledany444@gmail.com>
-Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledanys.ig
+Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledanyss.ig
