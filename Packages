@@ -2,12 +2,10 @@ Package: com.aledannyy.ig.deb
 Version: 1.0.0
 Section: Tweaks
 Maintainer: Aledany <Aston1Cheats@gmail.com>
-Depends: firmware (>14.4), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.aledannyy.ig.deb
+Filename: /com.aledannyy.ig.deb
 Size: 179010
 MD5sum: dd00232316cc0ef853fb149d0aa21b64
-SHA512: 0b1e26ed34e87b8052f7cde6e8d5194f79bb429878d8e402ec6712ccb00202e51df04bec2641ed41a9fd9ae94d5395970c876c2447e5b0d20230f319c9cb7ede
 SHA1: d8b2ef1b04123fed940485024f691902406652f1
 SHA256: 66bed65eaa6946dcf125d052509c786259b3427ed4d7d7d76410923431a57fe0
 Description: BEST CHEATS EVER
