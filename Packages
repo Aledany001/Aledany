@@ -2,7 +2,7 @@ Package: com.aledannyy.ig.deb
 Version: 1.0.0
 Section: Tweaks
 Maintainer: Aledany <Aston1Cheats@gmail.com>
-Depends: firmware (>14.8), mobilesubstrate
+Depends: firmware (>14.4), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.aledannyy.ig.deb
 Size: 179010
