@@ -1,0 +1,13 @@
+Package: com.aledannyy.ig.deb
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Aledany <Aston1Cheats@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.aledannyy.ig.deb
+Size: 179010
+MD5sum: dd00232316cc0ef853fb149d0aa21b64
+Description: BEST CHEATS EVER
+Name: ALKHAL CHEATS
+Author: Aledany <Aston1Cheats@gmail.com>
+Depiction: https://Aledany001.github.io/Aledany/depictions/?p=com.aledannyy.ig
