@@ -1,12 +1,12 @@
 <changelog>
 	<changes>
 		<version>3.0.1</version>
-		<change>Second release, repackaged</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>اصلاح مشكلة اختفاء الرادار</change>
+		<change>اصلاح مشكلة مود الفرعون</change>
+		<change>الدخول بمفتاح واحد</change>
 	</changes>
 	<changes>
 		<version>1.0.0-1</version>
-		<change>Initial Release</change>
+		<change>الاصدار الاول</change>
 	</changes>
 </changelog>

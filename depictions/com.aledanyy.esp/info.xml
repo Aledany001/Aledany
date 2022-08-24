@@ -13,29 +13,29 @@
 	<shortDescription>BEST CHEATS EVER</shortDescription>
 	<descriptionlist>
 		<description><![CDATA[
-		You can also have<br/>
-		a multi-line item.
+		تقدر تشوف الاداة قبل<br/>
+		ماتحملها.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>1</description>
+			<description>في ساحة الانتظار</description>
 			<image>cydia.jpg</image>
 		</screenshot>
 		<screenshot>
-			<description>2</description>
+			<description>في المباراة</description>
 			<image>shot1.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>Repackage and reupload by Decimation</change>
-		<change>It has feature 2</change>
+		<change>اصلاح مشكلة اختفاء الرادار</change>
+		<change>اصلاح مشكلة مود الفرعون</change>
+		<change>الدخول بمفتاح واحد</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/Our Website</name>
+			<name>موقعنا الالكتروني</name>
 			<url>https://www.AstonCheats.com</url>
 			<iconclass>google</iconclass>
 		</link>
